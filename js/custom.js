@@ -22,8 +22,8 @@ let projectIndexes = {
   project5: 1,
   // project6: 1,   // Remove // from the beginning of line to unlock it
   // project7: 1,
-  // project5: 1,
-  // project5: 1,
+  // project8: 1,
+  // project9: 1,
 }
 showDivs("project1", projectIndexes.project1);
 showDivs("project2", projectIndexes.project2);
